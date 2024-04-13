@@ -1,0 +1,1 @@
+[{"productId":1,"title":"My first Post","description":"Hi Mann here","userId":1},{"productId":2,"title":"My second Post","description":"I am very good","userId":1},{"productId":3,"title":"My first Post","description":"Hello My name is Virat kohli","userId":3}]

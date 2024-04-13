@@ -1,0 +1,1 @@
+[{"userId":1,"email":"mannchandarana@gmail.com","password":"123456","name":"Mann Chandarana"},{"userId":2,"email":"chhayachandarana@gmail.com","password":"1234567","name":"Chhaya Chandarana"},{"userId":3,"email":"viratKohli@gmail.com","password":"12345","name":"Virat Kohli"}]
